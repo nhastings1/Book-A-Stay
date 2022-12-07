@@ -1,0 +1,9 @@
+            =====> React || Book A Stay <=====
+                    Beach Resort Hotel Room Booking System
+            -------------------------------------------
+
+1. CREATE-A-NEW-REACT-APP - npx create-react-app react-beach-resort-dev
+
+2. module install -
+    i. REACT-ICONS: npm install react-icons
+    ii. REACT-ROUTER-DOM: npm i react-router-dom --save
